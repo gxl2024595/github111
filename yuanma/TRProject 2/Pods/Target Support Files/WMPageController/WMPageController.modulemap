@@ -1,0 +1,6 @@
+module WMPageController {
+  umbrella header "WMPageController-umbrella.h"
+
+  export *
+  module * { export * }
+}

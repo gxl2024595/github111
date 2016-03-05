@@ -1,0 +1,6 @@
+module MLTransition {
+  umbrella header "MLTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}
